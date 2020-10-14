@@ -122,7 +122,7 @@ Baby.prototype.play = function() {
 
   3. In New binding the this keyword refers to the object that is created with the constructor
   
-  4. In Explicit binding the this keyword defines objects explicitly when the call and apply methods are added to the 
+  4. In Explicit binding the this keyword defines objects explicitly when the call and apply methods are added to the object
 */
 
 
